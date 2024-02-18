@@ -4,7 +4,7 @@ my_name = "Amit"
 
 if a < 10:
      print("You Are AmitB")
-elif my_name == "Amit":
+elif my_name == "David":
     print("Found Your Name")
 elif b > 5:
     print("B Is Good")
