@@ -1,4 +1,4 @@
-print("Hello, world!")
+print("Hello, Moshe!")
 a = "Amit"
 b = "Bronshtein"
 age = 31
@@ -7,4 +7,4 @@ hobbies = ["Football", "PlayStation"]
 about_me = [a, b, age, hobbies, isMarried]
 about_me[2] = 44
 print(about_me)
-my_tuple = ("Amit" , "Bronshtein")
+my_tuple = ("Amit", "Bronshtein")
